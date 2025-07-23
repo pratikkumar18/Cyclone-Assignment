@@ -1,5 +1,3 @@
----
-
 ## Cyclone Preheater Data Analysis Report
 
 ## Data Cleaning Summary
