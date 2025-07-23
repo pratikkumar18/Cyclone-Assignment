@@ -274,7 +274,7 @@ This baseline complements model predictions and offers a transparent sanity chec
 
 ---
 
-## 🔍 Comparative Evaluation of Anomaly Detection Methods
+## Comparative Evaluation of Anomaly Detection Methods
 
 ---
 
