@@ -316,7 +316,7 @@ A categorical breakdown quantifies the overlap and differences between the two m
 
 ---
 
-### ✅ Summary: Model Comparison Insights
+### Summary: Model Comparison Insights
 
 | Aspect                      | Isolation Forest                              | Statistical Method               |
 |-----------------------------|-----------------------------------------------|----------------------------------|
